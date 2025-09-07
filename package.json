@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dragula": "^3.7.2",
+    "dragula": "^3.7.3",
     "imagesloaded": "^4.1.4",
     "js-file-download": "^0.4.8",
     "morgan": "^1.9.1"
