@@ -12,7 +12,7 @@
     "dragula": "^3.7.2",
     "imagesloaded": "^4.1.4",
     "js-file-download": "^0.4.8",
-    "morgan": "^1.9.1"
+    "morgan": "^1.10.1"
   },
   "devDependencies": {
     "tailwindcss": "^1.1.2"
