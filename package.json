@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dragula": "^3.7.2",
-    "imagesloaded": "^4.1.4",
+    "imagesloaded": "^5.0.0",
     "js-file-download": "^0.4.8",
     "morgan": "^1.9.1"
   },
